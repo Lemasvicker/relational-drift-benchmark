@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it."
+type: dataset
+title: "Relational Drift Evaluation (RDE) Benchmark"
+authors:
+  - family-names: Nlemadim
+    given-names: Victory
+repository-code: "https://github.com/Lemasvicker/relational-drift-benchmark"
+version: 1.0.0
+date-released: 2026-03-02
+license: CC-BY-4.0
