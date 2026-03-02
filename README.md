@@ -72,7 +72,7 @@ Contracts are stored in `contracts/` and represent user-selected relational boun
 ### Cite the *dataset + benchmark release* (recommended)
 Once you archive a release to Zenodo, include the Zenodo DOI here and cite that version.
 
-**[Dataset]** Victory Nlemadim. *Relational Drift Evaluation (RDE) Benchmark v1.0.0*. Zenodo. DOI: `10.5281/zenodo.18834343`
+**[Dataset]** Victory Nlemadim. *Relational Drift Evaluation (RDE) Benchmark v1.0.0*. Zenodo. DOI: `10.5281/zenodo.18834344`
 
 ### Cite the *preprint*
 **[Paper]** Victory Nlemadim. *Relational Drift in Mental-Health LLMs: Metrics and Benchmarks for Bounded Empathy*. arXiv, 2026. arXiv:`XXXX.XXXXX`
