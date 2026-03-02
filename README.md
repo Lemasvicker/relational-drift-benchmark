@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1170621753.svg)](https://doi.org/10.5281/zenodo.18834343)
+
 # Relational Drift Evaluation (RDE) Benchmark
 
 **Author:** Victory Nlemadim  
