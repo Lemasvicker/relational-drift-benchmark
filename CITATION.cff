@@ -11,3 +11,12 @@ repository-code: "https://github.com/Lemasvicker/relational-drift-benchmark"
 version: 1.0.0
 date-released: 2026-03-02
 license: CC-BY-4.0
+
+preferred-citation:
+  type: article
+  title: "Relational Drift in Mental-Health LLMs: Metrics and Benchmarks for Bounded Empathy"
+  authors:
+    - family-names: Nlemadim
+      given-names: Victory
+  year: 2026
+  doi: 10.5281/zenodo.18835980
