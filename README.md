@@ -78,7 +78,7 @@ Contracts are stored in `contracts/` and represent user-selected relational boun
 ### Cite the *preprint*
 **[Paper]** Victory Nlemadim. *Relational Drift in Mental-Health LLMs: Metrics and Benchmarks for Bounded Empathy*. arXiv, 2026. arXiv:`XXXX.XXXXX`
 **[Paper]** Victory Nlemadim. *Relational Drift in Mental-Health LLMs: Metrics and Benchmarks for Bounded Empathy*. Zenodo (Preprint). DOI: `10.5281/zenodo.18835980`
-**[Dataset]** Victory Nlemadim. *Relational Drift Evaluation (RDE) Benchmark v1.0.0. Zenodo*. DOI: 10.5281/zenodo.18834344
+**[Dataset]** Victory Nlemadim. *Relational Drift Evaluation (RDE) Benchmark v1.0.0. Zenodo*. DOI: `10.5281/zenodo.18834344`
 
 > Tip: Zenodo supports **concept DOIs** (all versions) and **version DOIs** (specific releases). Use the *version DOI* for reproducibility.
 
